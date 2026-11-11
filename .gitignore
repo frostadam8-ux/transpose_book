@@ -1,0 +1,16 @@
+# Source songbook and all generated music (copyrighted material: don't publish)
+*.pdf
+*.mscz
+*.mscx
+*.mxl
+*.musicxml
+*.omr
+Songbook*/
+_song_pdfs/
+_audiveris/
+report.csv
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
