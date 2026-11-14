@@ -9,6 +9,10 @@ Songbook*/
 _song_pdfs/
 _audiveris/
 report.csv
+Hymnbook*/
+_song_pdfs/
+_audiveris/
+report.csv
 
 # Python / OS
 __pycache__/
